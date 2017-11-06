@@ -4,7 +4,7 @@ public class VariabelStatic {
 
 	public static void main (String[] args) {
 		VariabelStatic var = new VariabelStatic();
-		var.namaPrivate = "ray";
+		var.namaPrivate = "Ray";
 		VariabelStatic.nama = "Ray";
 	}
 }
